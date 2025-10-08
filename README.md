@@ -1,9 +1,7 @@
 # SQL Techniques - Basics to Advanced
-Hello!
-This repository is my personal SQL reference - a living collection of notes, examples, and use cases that cover everything from fundamentals to advanced techniques.
 
-I built this repo to document what I learn, forget, update, and relearn. So it's both a refresher and a roadmap for continuous improvement.
----
+Hello! This repository is my personal SQL reference - a living collection of notes, examples, and use cases that cover everything from fundamentals to advanced techniques. I built this repo to document what I learn, forget, update, and relearn. So it's both a refresher and a roadmap for continuous improvement.
+
 # Structure
 The content is organized into three main sections:
 
@@ -41,4 +39,4 @@ For complex datasets, analytics engineering, and data science pipelines
 - Using SQL for data validation and QA
 - SQL in ETL design and data modeling
 - Analytical problem-solving patterns (e.g., cohort analysis, funnel conversion tracking)
----
+
