@@ -40,3 +40,5 @@ For complex datasets, analytics engineering, and data science pipelines
 - SQL in ETL design and data modeling
 - Analytical problem-solving patterns (e.g., cohort analysis, funnel conversion tracking)
 
+# References
+https://sqlzoo.net/
