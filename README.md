@@ -42,3 +42,4 @@ For complex datasets, analytics engineering, and data science pipelines
 
 # References
 https://sqlzoo.net/
+[AdventureWorks Dataset](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
